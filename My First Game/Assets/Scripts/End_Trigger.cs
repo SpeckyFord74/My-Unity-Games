@@ -1,4 +1,4 @@
-s;using Unity.VisualScripting;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class End_Trigger : MonoBehaviour
